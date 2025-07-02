@@ -4,7 +4,7 @@
 NIvedh = int(input("Enter the n: "))
 Nivedhita = int(input("Enter the second "))
 
-# Calculate the sum
+# Calculate the sum of two number
 ajeesh = NIvedh + Nivedhita
 
 # Display the result
